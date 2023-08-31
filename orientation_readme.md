@@ -5,18 +5,6 @@ This document was made to help newcomers set up all the software that they will 
 
 ##  Downloading and Setting Up Software
 
-### [MySQL](https://www.mysql.com/downloads/) on Oracle - Paid Access Software
-  Click “Try Free,” then “Start for free on OCI.” Make an Account on Oracle by inputting information, which should include verification of email. 
-  Download and log into the application. 
-
-
-### [Beekeeper Studio](https://www.beekeeperstudio.io/get) - Free Alternative to MySQL
-  Download compatible software for your operating system.
-  Then, open the software, then click on the “Install” button to start using Beekeeper.
-
-
-
-
 ### Jetbrain
 We use Jetbrain products for web development.  
 This includes PHPStorm for PHP development, DataGrip for SQL and database interaction, and Pycharm for Python development.
