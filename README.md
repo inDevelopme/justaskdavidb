@@ -39,3 +39,17 @@ Participants will apply fundamental concepts and utilize essentials tools such a
 
 Consistent engagement in the devops track will help partcipants build a solid foundation in cloud architecture. Participants will develop skill that help solve high availability, reliability, and scalability issues within an cloud application. 
 
+### Content Strategy
+
+This GSD-IT track focuses heavily content development best practices in the digital space. This track uses technologies and concepts such as Squarespace, Stripe, Medium, Google Analytics, etc to teach participants IT concepts around website development. This is done to help participants in the Business Administration and Fine Arts field better understand the role that IT plays in the content development life cycle.
+
+
+***Content Strategy: General Tasks***  
+
+Participants on the Content Strategy track will complete tasks related to the content development for inDevelopme's non-profit initiatives. This will include the development of style guides, voice and tone, user personas, etc for inDevelopme as outlined by inDevelopme's Content Playbook. Participants will also utilize Search Engine Optimization (SEO) and Marketing (SEM) best practices to raise content engagement for JustAskDavidB and other inDevelopme non-profit initiatives.
+
+***Content Strategy: Benefit to Participant***  
+
+Consistent engagement in this track will establish solid foundation in the content developemnt lifecycle and general IT concepts such "development environments" or User Acceptance Testing (UAT). Participants will occassional have working sessions with content strategist that have 15+ years of experience in the field. 
+
+
