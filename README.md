@@ -31,7 +31,7 @@ Consistent engagement in programming will help partcipants build a solid foundat
 
 This GSD-IT track focuses heavily on devops concepts and best practices using AWS. Docker, Jenkins, Terraform, and Amazon Web Service (AWS) are just some of the products and technologies used within this track.
 
-***General Tasks***  
+***DevOps: General Tasks***  
 
 Participants will apply fundamental concepts and utilize essentials tools such as Jenkins, Docker, and AWS. The will learn to use and create IaaS, PaaS, and SaaS products and services. Participants will explore concepts such as Infrastructure as Code (IaC) & Continous Integration / Continuous Deployment (CI/CD) to complete tasks for inDevelopme's open-source libraries. A participant may be asked to learn about containerizaiton or container orchestration tools -- and then be asked to demonstration competency through an implementation. This has a heavy focus in sucrity best practices, collaboration, application architecture, and documentation. 
 
