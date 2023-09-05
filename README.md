@@ -50,6 +50,6 @@ Participants on the Content Strategy track will complete tasks related to the co
 
 ***Content Strategy: Benefit to Participant***  
 
-Consistent engagement in this track will establish solid foundation in the content developemnt lifecycle and general IT concepts such "development environments" or User Acceptance Testing (UAT). Participants will occassional have working sessions with content strategist that have 15+ years of experience in the field. 
+Consistent engagement in this track will establish solid foundation in the content developemnt lifecycle and general IT concepts such "development environments" and User Acceptance Testing (UAT). Participants will occassional have working sessions with content strategist that have 15+ years of experience in the field. These opportunities will help participants become proficient at making strategic decisions backed by research and data for the purpose of increasing content engagement. 
 
 
