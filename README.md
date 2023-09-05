@@ -19,7 +19,7 @@ Participants will work under the guidance of a coach to complete open-source ini
 
 This GSD-IT track focuses heavily on programming concepts and best practicing. GIT, Composer, Jetbrain, Laravel (PHP), and Flask (Python) represent some of the products and technologies used within this track. 
 
-***General Tasks***
+***Programming: General Tasks***  
 
 Participants will work through a series of tasks meticulously designed to foster growth in programming languages (e.g. Python, Java, C++, etc). They will tackle debugging scenarios, conditional statements, iterative programming,practice user input and output handling, and build basic user interfaces. Other tasks will include self-exploration in data structures, algorithms, version control, etc to participant on small projects designed to allow application of newly acquired knowledge and skills.  
 
@@ -27,6 +27,15 @@ Participants will work through a series of tasks meticulously designed to foster
 
 Consistent engagement in programming will help partcipants build a solid foundation in programming, enabling them to take on more complex challenges. Participants will also develop a portfolio of skills and work experience for the world to see!
 
-### DevOps
+### DevOps  
 
-This GSD-IT track focuses heavily on devops concepts and best practices using AWS. 
+This GSD-IT track focuses heavily on devops concepts and best practices using AWS. Docker, Jenkins, Terraform, and Amazon Web Service (AWS) are just some of the products and technologies used within this track.
+
+***General Tasks***  
+
+Participants will apply fundamental concepts and utilize essentials tools such as Jenkins, Docker, and AWS. The will learn to use and create IaaS, PaaS, and SaaS products and services. Participants will explore concepts such as Infrastructure as Code (IaC) & Continous Integration / Continuous Deployment (CI/CD) to complete tasks for inDevelopme's open-source libraries. A participant may be asked to learn about containerizaiton or container orchestration tools -- and then be asked to demonstration competency through an implementation. This has a heavy focus in sucrity best practices, collaboration, application architecture, and documentation. 
+
+***DevOps: Benefits to Participant***  
+
+Consistent engagement in the devops track will help partcipants build a solid foundation in cloud architecture. Participants will develop skill that help solve high availability, reliability, and scalability issues within an cloud application. 
+
