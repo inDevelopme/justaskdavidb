@@ -29,3 +29,13 @@ Overall, queues and stack structures are essential for many of the operations in
 Queues are the same concept as lines in a store, and stacks can be compared to a stack of plates. Both uses are used uniquely and efficiently according to their individual basic concept. 
 Although the principles of queues and stacks are ordinary, the application of these concepts can lead to many different possibilities in computer science and beyond.
 
+
+
+## Works Cited
+Husban. (2023, March 29). Difference Between Stack and Queue Data Structures. GeeksforGeeks.   https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/# 
+
+Aayushi. (2023, February 28). Applications, Advantages and Disadvantages of Stack.    GeeksforGeeks. https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-stack/ 
+
+Wikimedia Foundation. (2023, July 31). Queue (Abstract Data Type). Wikipedia. https://en.wikipedia.org/wiki/Queue_(abstract_data_type) 
+
+HackerRank. (2016, September 27). Data Structures: Stacks and queues. YouTube. https://www.youtube.com/watch?v=wjI1WNcIntg 
