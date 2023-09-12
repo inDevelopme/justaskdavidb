@@ -1,17 +1,17 @@
-# Queues and Stack Structures  
+# Introduction to Queues and Stack Structures  
 Queues and stack structures are data structures that differ when it comes to the modification of data. 
 The principle for queues is the data that is first in, gets out first. For stacks, the principle is last in, first out. 
 A good visualization would be that a queue is a rectangular data structure that manages data from left to right or vice versa, such as a line of people, while a stack is structured similarly to a stack of paper that is managed starting from the top. 
 Queues and stack structures have their own trade-offs, but they both play vital roles in the function of computer science.
 
-### Introduction to Queues
+### Queues
 Queues operate on the principle that the first data to be inserted is the first data to be deleted. 
 Data is inserted at the end of the list and deleted at the front of the list. This key difference leads to many service is used by multiple customers, so an order is formed based on which customer was first. 
 Queues advantages or disadvantages, depending on the use. For example, queues are advantageous when one are also excellent at managing many different programs at once because of its adept control over data. 
 However, disadvantages inevitably arise from the ease of controlling large amounts of data at once; queues have limited space, and the maximum size of a queue is required to be defined prior. 
 Additionally, data elements have to be deleted in order for new data to be added. The insertion and deletion of data in the middle of a queue can also be quite time consuming.
 
-### Introduction to Stacks
+### Stacks
 However, stack structures have slightly differing advantages and disadvantages. Because of the nature of stack structures, backtracking and redoing history is fairly simple, as the data on the top can just be deleted or removed. 
 Additionally, stack structures have fast access times and utilize memory efficiently because it stores data in one block of memory, as opposed to other data structures. 
 However, stack structures also have their disadvantages. This aspect is similar to queues, as stack structures also struggle with limited capacity, and the oversaturation of data will lead to stack overflow, which leads to loss of data. 
