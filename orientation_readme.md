@@ -5,13 +5,11 @@ This document was made to help newcomers set up all the software that they will 
 
 ##  Downloading and Setting Up Software
 
-### Jetbrain
+### [Jetbrain](https://account.jetbrains.com/login)
 We use Jetbrain products for web development.  
 This includes PHPStorm for PHP development, DataGrip for SQL and database interaction, and Pycharm for Python development.
 Downloading the trials is fine because a JetBrain license will be purchased for you as part of the JustAskDavidB Coaching Program.  
   You will receive an email from JetBrains to complete your registration within the first 15-days.  
-  Registration link is below in case it does not appear in the email.  
-  [Jetbrain Login Page](https://account.jetbrains.com/login)  
   After logging into JetBrains, “Authorization Successful” should appear on screen.
 
 #### 1. [PHPStorm](https://www.jetbrains.com/phpstorm/download/#section=windows)
@@ -33,13 +31,13 @@ Downloading the trials is fine because a JetBrain license will be purchased for 
 
 
 ### [Docker Desktop](https://www.docker.com/)
-  Click the “Download Docker Desktop” button. Save it and then open “Docker Desktop Installer” where it was saved, then allow the app to make changes to your device. Follow the instructions on the installer to install Docker. 
+  Click the blue “Download Docker Desktop” button. Save it and then open “Docker Desktop Installer” where it was saved, then allow the app to make changes to your device. Follow the instructions on the installer to install Docker. 
 
 
 
 
 
-### Github Desktop
+### [Github Desktop](https://desktop.github.com/)
 Switch back to PyCharm and click the blue “Activate” button that has now appeared. Then click “Continue” at the bottom right-hand corner of the screen. PyCharm is now available to use.
 
 
