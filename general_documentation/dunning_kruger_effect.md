@@ -26,14 +26,14 @@ It happens ALL THE TIME! It is very true that "You do not know what you do not k
 The person might even be a below-average worker who just "got lucky" on a few tasks. Unfortunately, the person became overconfident -- and yes this is the Dunning Kruger effect at its finest!  
 
 ### Estimation by Everyone
-Charles Darwin, in his book "The Descent of Man", wrote “Ignorance more frequently begets confidence than does knowledge”. In short, unfamiliarity in a topic can cause a person to be confidence in misinformation.
+Charles Darwin, in his book "The Descent of Man" [^darwin], wrote “Ignorance more frequently begets confidence than does knowledge”. In short, unfamiliarity in a topic can cause a person to be confidence in misinformation.
 
-##### I'm a professional race car driver!  
+****I'm a professional race car driver!****  
 On a small scale, individuals can make erroneous decisions based on an estimation of their own abilities, which could be based on a fallacy. For example, a 1986 comparative study on US drivers[^drivers] concluded that 80% of people considered themselves as "above average drivers". 
 This is basically saying that 80% of US drivers considered themselves better than remaining 50% of the population.  That is also like slicing a pizza into a hundred (100) slices and saying eighty (80) of the slices are larger than the remaining fifty (50). 
 I am sorry, come again? Is this why so many US drivers attempt to weave in-and-out of traffic as if they received nascar level training?  
 
-##### I'm an indispensable employee!
+****I'm an indispensable employee!****  
 Another study[^developers] founded that 42% of employees in a software engineering company assessed their own performance as the top 5%. These employees overestimate their own abilities and may end up looking down on others either intentionally or unintentionally.
 This can rob team members of valuable opportunities to learn, grow, and develop as IT professionals.
 
@@ -44,5 +44,9 @@ The goal is to never let Dunning-Kruger Effect influence your perception of your
 
 
 ### Citations
-[^drivers]: [McCormick IA, Walkey FH, Green DE. Comparative perceptions of driver ability--a confirmation and expansion. Accid Anal Prev. 1986 Jun;18(3):205-8. doi: 10.1016/0001-4575(86)90004-7. PMID: 3730094.](https://pubmed.ncbi.nlm.nih.gov/3730094/#:~:text=The%20results%20confirmed%20expectations%20that,vary%20significantly%20across%20demographic%20categories.)   
-[^developers]: [Ehrlinger J, Johnson K, Banner M, Dunning D, Kruger J. Why the Unskilled Are Unaware: Further Explorations of (Absent) Self-Insight Among the Incompetent. Organ Behav Hum Decis Process. 2008 Jan 1;105(1):98-121. doi: 10.1016/j.obhdp.2007.05.002. PMID: 19568317; PMCID: PMC2702783.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2702783/)
+[^drivers]: [McCormick IA, Walkey FH, Green DE. Comparative perceptions of driver ability--a confirmation and expansion. Accid Anal Prev. 1986 Jun;18(3):205-8. doi: 10.1016/0001-4575(86)90004-7. PMID: 3730094.](https://pubmed.ncbi.nlm.nih.gov/3730094/#:~:text=The%20results%20confirmed%20expectations%20that,vary%20significantly%20across%20demographic%20categories.)  
+
+[^developers]: [Ehrlinger J, Johnson K, Banner M, Dunning D, Kruger J. Why the Unskilled Are Unaware: Further Explorations of (Absent) Self-Insight Among the Incompetent. Organ Behav Hum Decis Process. 2008 Jan 1;105(1):98-121. doi: 10.1016/j.obhdp.2007.05.002. PMID: 19568317; PMCID: PMC2702783.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2702783/)  
+
+[^darwin]: [The Descent of Man](https://www.literature.org/authors/darwin-charles/the-descent-of-man/introduction.html)
+
