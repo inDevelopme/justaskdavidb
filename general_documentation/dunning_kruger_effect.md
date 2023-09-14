@@ -1,42 +1,45 @@
 # Dunning-Kruger Effect
-****Authored by: Andrew Zhou , David Baldwin****
-****Last Updated: July 7, 2023****
+****Authored by:****  
+Andrew Zhou  
+David Baldwin  
+
+****Last Updated:****  
+July 7, 2023
 
 ### Introduction 
 The Dunning-Kruger Effect is an error in thinking that occurs when one incorrectly judges one's own ability because of their lack of knowledge. 
 However, this effect can also occur to those who are skilled at a certain task; they can also underestimate their own ability compared to other people who are not as skilled. 
-The Dunning-Kruger Effect has a wide range of causes that can affect the behavior and actions of an individual.
+The Dunning-Kruger Effect has a wide range of causes that can influence how an IT professional behaves toward himself or others.
+
 
 ### The Cause
-The Dunning-Kruger Effect can be difficult to recognize, especially while it is occurring. For example, it can be difficult for a freshman in college, a junior developer, or a new-hire to be consciously aware mistakes or shortcomings while performing an activity. 
-All things being equal, this observation can be directly related to a lack of experience, skill, or training and not at all related to capability or willingness. 
+The Dunning-Kruger Effect can be difficult to recognize, especially while it is occurring. For example, it can be difficult for a freshman in college, a junior developer, or a new-hire to be consciously aware of mistakes or shortcomings while performing an activity. 
+All things being equal, this observation can be directly related to a lack of experience, skill, or training and not at all related to capability or willingness to learn. 
 
 ### Underestimation by Seniors 
-Have you ever felt someone labeled something "easy" because it was easy for them? Such an individual may underestimate the difficulty others will have performing a task. 
-This underestimation happens because a person has become unaware of their own skills and relative to world around him/her. Alternatively, an experienced individual can underestimate the difficult he/she will face when performing a task. 
-In short, the person was overly confident in their own abilities unaware of their own lack of knowledge or skill.
+Has someone declared a task as "easy" because it was easy for them? Such an individual may underestimate the difficulty others may have performing a task. Alternatively, an experienced individual can underestimate the difficult he/she will face when performing a task. 
+In short, the person was overly confident in their own abilities unaware of their own lack of knowledge or skill. These underestimations happen because the person has become unaware of his own skills relative to world around him. 
 
 ### Underestimation by Juniors
-Have you ever thought a task would be easy only for it to become an insurmountable one? A new-hire may underestimate the difficulty of a similar task because of the "ease" by which they completed a previously similar task. 
+Have you ever thought a task would be easy only for it to become an insurmountable one? A new-hire may underestimate the difficulty of a similar task because of the "ease" by which she completed a previously similar task. 
 It happens ALL THE TIME! It is very true that "You do not know what you do not know". The new-hire may have been unaware of the challenges that lay ahead, challenges that a more senior hire would have seen.  
-The person became overconfident -- and yes this is the Dunning Kruger effect at its finest! The person might even be a below-average worker who just "got lucky" on a few tasks. 
+The person might even be a below-average worker who just "got lucky" on a few tasks. Unfortunately, the person became overconfident -- and yes this is the Dunning Kruger effect at its finest!  
 
 ### Estimation by Everyone
 Charles Darwin, in his book "The Descent of Man", wrote “Ignorance more frequently begets confidence than does knowledge”. In short, unfamiliarity in a topic can cause a person to be confidence in misinformation.
 
 ##### I'm a professional race car driver!  
-On a small scale, individuals could make bad decisions based on an estimation of their own abilities, which could be completely wrong. For example, a 1986 comparative study on US drivers[^drivers] concluded that 80% of people considered themselves as "above average drivers". 
-This is basically saying that 80% of US drivers considered themselves better than remaining 50% of the population.  That is like slicing a pizza into 100 slices and saying eighty of the slices are larger than the remaining fifty. 
+On a small scale, individuals can make erroneous decisions based on an estimation of their own abilities, which could be based on a fallacy. For example, a 1986 comparative study on US drivers[^drivers] concluded that 80% of people considered themselves as "above average drivers". 
+This is basically saying that 80% of US drivers considered themselves better than remaining 50% of the population.  That is also like slicing a pizza into a hundred (100) slices and saying eighty (80) of the slices are larger than the remaining fifty (50). 
 I am sorry, come again? Is this why so many US drivers attempt to weave in-and-out of traffic as if they received nascar level training?  
 
-##### I'm an indispensable employee! 
-
+##### I'm an indispensable employee!
 Another study[^developers] founded that 42% of employees in a software engineering company assessed their own performance as the top 5%. These employees overestimate their own abilities and may end up looking down on others either intentionally or unintentionally.
-This can rob team members of valuable opportunities to learn, grow, and develop.
+This can rob team members of valuable opportunities to learn, grow, and develop as IT professionals.
 
 ### Conclusion
-The D is a cause-and-effect outcome based on a person's use of misinformation. This misinformation allows for a catch-22 scenario because it can happen without awareness or knowledge. 
-It is important for individuals in IT to understand that its expected for them to make the wrong decision and learn from them. It is expected for IT professionals to over/underestimate. 
+The Dunning Kruger Effect is a cause-and-effect outcome based on a person's use of misinformation. This misinformation allows for a catch-22 scenario because it can happen without awareness or knowledge. 
+It is important for IT professionals to understand that it is expected for them to make the erroneous decision from time-to-time. And it is expected for IT professionals to sometimes over/underestimate by a lot. 
 The goal is to never let Dunning-Kruger Effect influence your perception of yourself or others!
 
 
