@@ -22,19 +22,24 @@ It happens ALL THE TIME! It is very true that "You do not know what you do not k
 The person became overconfident -- and yes this is the Dunning Kruger effect at its finest! The person might even be a below-average worker who just "got lucky" on a few tasks. 
 
 ### Estimation by Everyone
-Charles Darwin, in his book "The Descent of Man", wrote “Ignorance more frequently begets confidence than does knowledge”. In short, unfamiliarity in a topic can cause a person to be confidence in misinformation. 
-On a small scale, individuals could make bad decisions based on an estimation of their own abilities, which could be completely wrong. For example, a 1986 comparative study on US drivers [^test] concluded that 80% of people considered themselves as "above average drivers". 
+Charles Darwin, in his book "The Descent of Man", wrote “Ignorance more frequently begets confidence than does knowledge”. In short, unfamiliarity in a topic can cause a person to be confidence in misinformation.
+
+##### I'm a professional race car driver!  
+On a small scale, individuals could make bad decisions based on an estimation of their own abilities, which could be completely wrong. For example, a 1986 comparative study on US drivers[^drivers] concluded that 80% of people considered themselves as "above average drivers". 
 This is basically saying that 80% of US drivers considered themselves better than remaining 50% of the population.  That is like slicing a pizza into 100 slices and saying eighty of the slices are larger than the remaining fifty. 
-I am sorry come again? This is why we have 80% of the US drivers attempting to weave in-and-out of traffic only to get into a car accident.  
-Another study founded that 42% [^2] of employees in a software engineering company assessed their own performance as the top 5%. These employees overestimate their own abilities and may end up looking down on others either intentionally or unintentionally; then, many workers may lose the opportunity to learn, grow, and develop. On a national or global scale, countless examples of the Dunning-Kruger effect can be observed from politics. The bottom 25% of informed citizens are easier to manipulate and believe what they hear from politicians, then increasingly grow more attached to their “own” views and end up being most outspoken. The middle and top informed voters consider themselves as unworthy to vote and typically avoid political conversations. Thus, elections can be biased and could potentially affect international relations.
-Ultimately, the Dunning-Kruger Effect can be explained thoroughly, with a cause and effect that impacts people at many different scales. The effect can be applied to many different situations if analyzed, and can be used to further improve one’s mindset and behavior. However, a fraction of researchers disagree with the existence of this effect as they claim that it could be purely coincidental, and that any random numbers which are generated would have the same result. The effect could possibly be coincidental, or it could be very real.
+I am sorry, come again? Is this why so many US drivers attempt to weave in-and-out of traffic as if they received nascar level training?  
+
+##### I'm an indispensable employee! 
+
+Another study[^developers] founded that 42% of employees in a software engineering company assessed their own performance as the top 5%. These employees overestimate their own abilities and may end up looking down on others either intentionally or unintentionally.
+This can rob team members of valuable opportunities to learn, grow, and develop.
 
 ### Conclusion
-Misinformation is arguably the most crucial part of the Dunning Kruger Effect because the person in question is basing all actions off this misinformation. 
-It can be seen as a catch-22 scenario because it can happen without awareness or knowledge. Highly intelligent, talented, and skilled people or an inexperienced newbie. No one is immune to the effects of the Dunning-Kruger Effect.
-The goal is to never let it affect your perception of yourself or others!
+The D is a cause-and-effect outcome based on a person's use of misinformation. This misinformation allows for a catch-22 scenario because it can happen without awareness or knowledge. 
+It is important for individuals in IT to understand that its expected for them to make the wrong decision and learn from them. It is expected for IT professionals to over/underestimate. 
+The goal is to never let Dunning-Kruger Effect influence your perception of yourself or others!
 
 
 ### Citations
-[^test]: [McCormick IA, Walkey FH, Green DE. Comparative perceptions of driver ability--a confirmation and expansion. Accid Anal Prev. 1986 Jun;18(3):205-8. doi: 10.1016/0001-4575(86)90004-7. PMID: 3730094.](https://pubmed.ncbi.nlm.nih.gov/3730094/#:~:text=The%20results%20confirmed%20expectations%20that,vary%20significantly%20across%20demographic%20categories.)   
-[^2]: [Ehrlinger J, Johnson K, Banner M, Dunning D, Kruger J. Why the Unskilled Are Unaware: Further Explorations of (Absent) Self-Insight Among the Incompetent. Organ Behav Hum Decis Process. 2008 Jan 1;105(1):98-121. doi: 10.1016/j.obhdp.2007.05.002. PMID: 19568317; PMCID: PMC2702783.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2702783/)
+[^drivers]: [McCormick IA, Walkey FH, Green DE. Comparative perceptions of driver ability--a confirmation and expansion. Accid Anal Prev. 1986 Jun;18(3):205-8. doi: 10.1016/0001-4575(86)90004-7. PMID: 3730094.](https://pubmed.ncbi.nlm.nih.gov/3730094/#:~:text=The%20results%20confirmed%20expectations%20that,vary%20significantly%20across%20demographic%20categories.)   
+[^developers]: [Ehrlinger J, Johnson K, Banner M, Dunning D, Kruger J. Why the Unskilled Are Unaware: Further Explorations of (Absent) Self-Insight Among the Incompetent. Organ Behav Hum Decis Process. 2008 Jan 1;105(1):98-121. doi: 10.1016/j.obhdp.2007.05.002. PMID: 19568317; PMCID: PMC2702783.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2702783/)
