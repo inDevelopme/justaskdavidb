@@ -1,4 +1,4 @@
-# Singly Linked Lists and Doubly Linked Lists
+# Introduction to Singly Linked Lists and Doubly Linked Lists
 Singly linked lists and doubly linked lists are special types of lists, or collections of data, that contain slightly different information than other types of lists or arrays. 
 There are two fields of data in linked lists: the data elements themselves and a node, which is a pointer to the position of element(s) immediately next to it. 
 Singly linked lists’ nodes can only access the next node, while doubly linked lists’ nodes can access both the previous and next node. 
