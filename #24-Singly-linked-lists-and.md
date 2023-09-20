@@ -30,7 +30,10 @@ Linked lists are very important to computer science, and many commonly used feat
 With different types of linked lists, numerous more possibilities still exist, and more functions can be created with the fundamental and simplistic yet important roles of linked lists.
 
 ### Works Cited
-Wikimedia Foundation. (2023, September 20). Linked List. Wikipedia. https://en.wikipedia.org/wiki/Linked_list 
-Garwal, P. (2023, February 15). Advantages and Disadvantages of Linked List. GeeksforGeeks. https://www.geeksforgeeks.org/advantages-and-disadvantages-of-linked-list/ 
-Mittal, D. (2023, February 23). Applications of linked list data structure. GeeksforGeeks. https://www.geeksforgeeks.org/applications-of-linked-list-data-structure/ 
+Wikimedia Foundation. (2023, September 20). Linked List. Wikipedia. https://en.wikipedia.org/wiki/Linked_list  
+
+Garwal, P. (2023, February 15). Advantages and Disadvantages of Linked List. GeeksforGeeks. https://www.geeksforgeeks.org/advantages-and-disadvantages-of-linked-list/  
+
+Mittal, D. (2023, February 23). Applications of linked list data structure. GeeksforGeeks. https://www.geeksforgeeks.org/applications-of-linked-list-data-structure/  
+
 GeeksforGeeks. (2023, April 19). Introduction to Doubly Linked List – Data Structure and Algorithm Tutorials. GeeksforGeeks. https://www.geeksforgeeks.org/data-structures/linked-list/doubly-linked-list/ 
