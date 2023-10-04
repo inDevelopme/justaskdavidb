@@ -7,7 +7,7 @@ David Baldwin
 July 7, 2023
 
 ### Introduction 
-The Dunning-Kruger Effect is an error in thinking that occurs when one incorrectly judges one's own ability because of their lack of knowledge. 
+The Dunning-Kruger Effect is an error in thinking that occurs when one incorrectly judges one's misinformation. 
 However, this effect can also occur to those who are skilled at a certain task; they can also underestimate their own ability compared to other people who are not as skilled. 
 The Dunning-Kruger Effect has a wide range of causes that can influence how an IT professional behaves toward himself or others.
 
