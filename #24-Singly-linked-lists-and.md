@@ -1,33 +1,18 @@
 # Introduction to Singly Linked Lists and Doubly Linked Lists
-Singly linked lists and doubly linked lists are special types of lists, or collections of data, that contain slightly different information than other types of lists or arrays. 
-There are two fields of data in linked lists: the data elements themselves and a node, which is a pointer to the position of element(s) immediately next to it. 
-Singly linked lists’ nodes can only access the next node, while doubly linked lists’ nodes can access both the previous and next node. 
-Singly linked lists and doubly linked lists have both many advantages and many disadvantages, as well as some differing uses.
+Singly linked lists and doubly linked lists are special types of data structure because they introduce the concept of pointers (links) and nodes. A linked list is a collection of similar items called nodes that seek to establish a sequence / order to the collection. There are two types of node -- the head and tail nodes and the head is always the first node.  Singly linked lists’ nodes can only access the next node, while doubly linked lists’ nodes can access both the previous and next node. The use of the term "singly" or "doubly" represent the number "links" that each node can establish with another node. Think of a line of lawn mowers strung together by rope.
 
 ### Singly Linked Lists
-Singly linked lists’ nodes are connected only to the next node, and many potential problems or benefits can arise from this distinction. 
-Some advantages of singly linked lists would be the ease of accessing data in the forward direction, the insertion and deletion of nodes are easy and don’t require the movement of all elements, and the easy implementation of its data structure. 
-Additionally, singly linked lists require less memory than other linked lists, such as doubly linked lists. 
-However, the main problem with singly linked lists is that directly accessing the previous node is impossible because of the lack of data in the current node. Also, the access of a node is time consuming because of the lack of easy indexing. 
+Singly linked lists’ nodes are connected only to the next node. Singly linked lists are great when you want to access data in the forward direction only. The insertion and deletion of nodes of nodes is easy. Singly linked list require less memory than doubly linked lists. However, the main problem with singly linked lists is that directly accessing the previous node is impossible. You experience examples of singly linked list when visiting a bank because the teller is typically required to process the customers in the order they arrive in. The problem with singly linked list becomes obvious when told to rewind a song but only the fast forward "button" works. 
 
 ### Doubly Linked Lists
-In contrast, doubly linked lists’ nodes are connected to both the previous and next node, so this difference impacts its potential, in both positive and negative ways. 
-For example, the main advantage of a doubly linked list over a singly linked list is its ability to traverse easily both in a forward and backward directions. 
-If pointers are given on a specific node’s position, then its deletion would be much more efficient as opposed to singly linked lists because a previous node is needed to delete a node; however, singly linked lists’ nodes do not have data on the previous node, so the list needs to be traversed again sometimes in order to delete the node. But doubly linked lists can be disadvantageous compared to singly linked lists as well. 
-For instance, extra space is needed to store the previous pointer in a doubly linked list. 
-Additionally, the extra pointer can be burdensome, as all operations such as insertion would require more pointers to be modified than if the insertion occurred in a singly linked list.
+In contrast, doubly linked lists’ nodes are connected to both the previous and next node and this difference is very important. The main advantage of a doubly linked list over a singly linked list is its ability to traverse easily both in a forward and backward directions. This means you now have the ability ot rewind the song to the beginnging. But doubly linked lists can be disadvantageous compared to singly linked lists as well. With regards to programming, extra space is needed to store the extra pointer in a doubly linked list. Additionally, the extra pointer can be burdensome, as all operations such as insertion would require more logic to support the need to point to both the next and previous nodes. 
 
-### Comparing Uses
-Because of the many differences between singly linked lists and doubly linked lists, their uses are completely different. Doubly linked lists are used mostly when handling recent data and the order that the data is in. 
-For example, the forward and backward navigation on web browsers and data involving a user’s history, such as MRU (Most Recently Used) and LRU (Least Recently Used), both use doubly linked lists to maintain order. 
-Doubly linked lists are also used to undo operations because it involves a user’s history and can be used to track or determine the executions of multiple processes. 
-Similar to the doubly linked list, singly linked lists can also be used to undo functions. Singly linked lists are implemented in stacks and queues, which are the foundation of computer science. 
-Singly linked lists can also be used to represent polynomials and graphs because of the links between different values in polynomials.
+## Conclusion
+Singly linked lists are implemented in stacks and queues, which are the foundation of computer science. A bank teller's line is a perfect everyday example of its advantage; and a broken rewind button its disadvantage. The advantaged of doubly linked lists can be demonstrated when having a song that you want to fast forward or rewind -- a feature that singly linked list would not possess. Doubly linked lists are also used to undo operations because it involves a user’s history and can be used to track or determine the executions of multiple processes.  Similar to the doubly linked list, singly linked lists can also be used to undo functions but you would never be able to "redo"  or "undo the undo". 
+
 
 ### Conclusion
-Ultimately, both singly linked lists and doubly linked lists can be problematic or beneficial depending on the circumstance and each have their own unique uses. 
-Linked lists are very important to computer science, and many commonly used features use linked lists. 
-With different types of linked lists, numerous more possibilities still exist, and more functions can be created with the fundamental and simplistic yet important roles of linked lists.
+ can be problematic or beneficial depending on the circumstance and each have their own unique uses. Linked lists are very important to computer science, and many commonly used programming concepts such as queues and stacks owe their existance to linked lists.
 
 ### Works Cited
 Wikimedia Foundation. (2023, September 20). Linked List. Wikipedia. https://en.wikipedia.org/wiki/Linked_list  
