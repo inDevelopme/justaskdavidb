@@ -7,7 +7,7 @@ This document was made to help newcomers set up all the software that they will 
 We use JetBrains products for web development.  This includes PHPStorm for PHP development, DataGrip for SQL and database interaction, and Pycharm for Python development. Downloading the trials is fine because a JetBrains license will be purchased for you as part of the JustAskDavidB Coaching Program. You will receive an email from JetBrains to complete your registration within the first fifteen days. After logging into JetBrains, “Authorization Successful” should appear on screen.
 
 #### 1. [PHPStorm](https://www.jetbrains.com/phpstorm/download/#section=windows)
-Download the program for your OS and run through the installation. After installing Pycharm, open Pycharm and run through the setup wizard. Do not worry there are no wrong answers :)
+Download the program for your OS and run through the installation. After installing PHPStorm, open PHPStorm and run through the setup wizard. The installation should be relatively simple
 
 #### 2. [DataGrip](https://www.jetbrains.com/datagrip/download/#section=windows)
 Download the default “.exe” version. Run the datagrip-2023.2.1.exe file to start the Installation Wizard. Follow all the steps suggested by the wizard. Pay special attention to the corresponding installation options. 
