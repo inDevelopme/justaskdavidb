@@ -27,11 +27,11 @@ Although data might not be the most updated, data can be undoubtedly accessed, e
 -  This is important when data accessibility needs to be prioritized, *even more* than the updated actual content of the data itself.  
 
 ## Partition-Tolerance  
-The **most important aspect** award (in the CAP Theorem) easily belongs to Partition-Tolerance.    
+Partition tolerance means that the system itself still works even after network failure, when communications within our network/system stop working.
 
--  Partition Tolerance ***must be prioritized*** in order to have a functional system.  
+-  The **most important aspect** (in the CAP Theorem) is Partition-Tolerance.     
 
--  Partition tolerance means that the system itself still works even after network failure, when communications within our network/system stop working.
+-  Partition Tolerance ***must be prioritized*** in order to have a functional system. 
 ## Uses and Combinations of the Aspects  
 
 ### CP databases (consistency and partition-tolerance)  
@@ -63,14 +63,22 @@ Uses or display old data temporarily while they fix their system to show updated
 
 **Infeasible** because partition-tolerance is the most important aspect of a system  
 
--  Operation of the system itself is much more important than the other two aspects, which enhance the features and functionality of the system.
+-  Operation of the system itself is much more important than the other two aspects, which simply enhance the features and functionality of the system.
 
 CA databases only exist in theory and are currently **unusable**
 ##  Conclusion
 The CAP Theorem shows us what to prioritize during network failure, when our system goes down.  
+
 
 -  Extremely important for the efficiency of varying online services
 
 -  The functionality of vital online services also depends the CAP Theorem
 
 -  Without the CAP Theorem, clients would have a difficulty using online services, resulting in a less advanced Internet
+# Works Cited
+
+What is the CAP Theorem?. IBM. (n.d.). https://www.ibm.com/topics/cap-theorem   
+
+9, D., &amp; Johnson, J. (2020, December 9). CAP theorem for databases: Consistency, Availability &amp; Partition Tolerance. BMC Blogs. https://www.bmc.com/blogs/cap-theorem/  
+
+Wikimedia Foundation. (2023, August 30). Cap Theorem. Wikipedia. https://en.wikipedia.org/wiki/CAP_theorem 
