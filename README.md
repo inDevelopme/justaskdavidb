@@ -35,7 +35,7 @@ Consistent engagement in programming will help partcipants build a solid foundat
 
 ### DevOps  
 
-This GSD-IT track focuses heavily on devops concepts and best practices using AWS. Docker, Jenkins, Terraform, and Amazon Web Service (AWS) are just some of the products and technologies used within this track.
+This GSD-IT track focuses heavily on devops concepts and best practices using Amazon Web Service (AWS). Docker, Jenkins, Terraform, and AWS are just some of the products and technologies used within this track.
 
 ***DevOps: General Tasks***  
 
