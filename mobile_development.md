@@ -1,9 +1,9 @@
 # Learning Mobile Android Development 
 
 ## Introduction
-"Mobile development is essentially the creation of software for smartphones, tablets, and digital assistants,
+Mobile development is essentially the creation of software for smartphones, tablets, and digital assistants,
 primarily focusing on the Android and iOS operating systems. This document provides a brief overview of what 
-I have learned and accomplished while learning mobile development on Android through Google's Online Training."
+I have learned and accomplished while learning mobile development on Android through Google's Online Training.
 
 ## My Background 
 Before joining JustAskDavidB’s coaching program, I had no prior programming or development experience. 
