@@ -7,17 +7,16 @@ David Baldwin
 July 7, 2023
 
 ### Introduction 
-The Dunning-Kruger Effect is an error in thinking that occurs when one incorrectly judges one's misinformation. However, this effect can also occur to those who are skilled at a certain task; they can also underestimate their own ability compared to other people who are not as skilled. The Dunning-Kruger Effect has a wide range of causes that can influence how an IT professional behaves toward himself or others.
-
+The Dunning-Kruger effect occurs when a person overestimates their abilities in a certain area because of a lack of knowledge or skill. However, this effect can also make those who are very skilled in a certain area to assume that everyone must also be as skilled, causing them to underestimate their ability. And this effect can influence an IT professional in many ways.
 
 ### The Cause
-The Dunning-Kruger Effect can be difficult to recognize, especially while it is occurring. For example, it can be difficult for a freshman in college, a junior developer, or a new-hire to be consciously aware of mistakes or shortcomings while performing an activity. All things being equal, this observation can be directly related to a lack of experience, skill, or training and not at all related to capability or willingness to learn. 
+The Dunning-Kruger Effect can be difficult to recognize, especially while it is occurring. For example, it can be difficult for a freshman in college, a junior developer, or a new hire to be consciously aware of mistakes or shortcomings while performing an activity. This observation can be directly related to a lack of experience, skill, or training and is not at all related to capability or willingness to learn. 
 
 ### Underestimation by Seniors 
-Has someone declared a task as "easy" because it was easy for them? Such an individual may underestimate the difficulty others may have performing a task. Alternatively, an experienced individual can underestimate the difficult he/she will face when performing a task. In short, the person was overly confident in their own abilities unaware of their own lack of knowledge or skill. These underestimations happen because the person has become unaware of his own skills relative to world around him. 
+Has someone declared a task as "easy" because it was easy for them? Such an individual may underestimate the difficulty others may have performing a task. Alternatively, experienced individuals can underestimate the difficult they will face when performing a task. In short, people overly confident in their own abilities are unaware of their own lack of knowledge or skill. This overconfidence happens because people become unaware of their own skills relative to world around him. 
 
 ### Underestimation by Juniors
-Have you ever thought a task would be easy only for it to become an insurmountable one? A new-hire may underestimate the difficulty of a similar task because of the "ease" by which she completed a previously similar task. It happens ALL THE TIME! It is very true that "You do not know what you do not know". The new-hire may have been unaware of the challenges that lay ahead, challenges that a more senior hire would have seen. The person might even be a below-average worker who just "got lucky" on a few tasks. Unfortunately, the person became overconfident -- and yes this is the Dunning Kruger effect at its finest!  
+Have you ever thought a task would be easy only for it to become an insurmountable one? New hires may underestimate the difficulty of a similar task because of the "ease" by which they previously completed a similar task. It happens *all the time.* It is very true that "you do not know what you do not know." The new hire may have been unaware of the challenges that lie ahead, challenges that a more senior hire would have seen. The person might even be a below-average worker who just "got lucky" on a few tasks. Unfortunately, the person became overconfident—the Dunning Kruger effect at its finest!  
 
 ### Estimation by Everyone
 Charles Darwin, in his book "The Descent of Man" [^darwin], wrote “Ignorance more frequently begets confidence than does knowledge”. In short, unfamiliarity in a topic can cause a person to be confidence in misinformation.
