@@ -1,4 +1,8 @@
-# Stripe and PayPal Payment Setup on Squarespace
+# Stripe and PayPal Payment Setup on Squarespace  
+
+****Authored by:****  [Ryan Lang](https://github.com/langrh), 1st yr. college    
+
+****Last Updated:**** September 21, 2023
 
 ## Overview
 
