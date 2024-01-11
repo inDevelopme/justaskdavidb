@@ -1,7 +1,7 @@
 # Dunning-Kruger Effect
 ****Authored by:****  
-Andrew Zhou  
-David Baldwin  
+[Andrew Zhou, 9th grade](https://github.com/andrew-zhouu)    
+[David Baldwin](https://github.com/dkbaldwin)
 
 ****Last Updated:****  
 July 7, 2023
