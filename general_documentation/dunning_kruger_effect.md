@@ -1,7 +1,6 @@
 # Dunning-Kruger Effect
 ****Authored by:****  
 [Andrew Zhou, 9th grade](https://github.com/andrew-zhouu)    
-[David Baldwin](https://github.com/dkbaldwin)
 
 ****Last Updated:****  
 July 7, 2023
@@ -19,16 +18,16 @@ Has someone declared a task as "easy" because it was easy for them? Such an indi
 Have you ever thought a task would be easy only for it to become an insurmountable one? New hires may underestimate the difficulty of a similar task because of the "ease" by which they previously completed a similar task. It happens *all the time.* It is very true that "you do not know what you do not know." The new hire may have been unaware of the challenges that lie ahead, challenges that a more senior hire would have seen. The person might even be a below-average worker who just "got lucky" on a few tasks. Unfortunately, the person became overconfident—the Dunning Kruger effect at its finest!  
 
 ### Estimation by Everyone
-Charles Darwin, in his book "The Descent of Man" [^darwin], wrote “Ignorance more frequently begets confidence than does knowledge”. In short, unfamiliarity in a topic can cause a person to be confidence in misinformation.
+Charles Darwin, in his book *The Descent of Man* [^darwin] wrote, "Ignorance more frequently begets confidence than does knowledge." In short, unfamiliarity in a topic can cause a person to be ignorantly confident.
 
-****I'm a professional race car driver!****  
-On a small scale, individuals can make erroneous decisions based on an estimation of their own abilities, which could be based on a fallacy. For example, a 1986 comparative study on US drivers[^drivers] concluded that 80% of people considered themselves as "above average drivers". This is basically saying that 80% of US drivers considered themselves better than remaining 50% of the population.  That is also like slicing a pizza into a hundred (100) slices and saying eighty (80) of the slices are larger than the remaining fifty (50). I am sorry, come again? Is this why so many US drivers attempt to weave in-and-out of traffic as if they received nascar level training?  
+****I'm a Professional Race Car Driver!****  
+On a small scale, individuals can make erroneous decisions based on an estimation of their own abilities, which could be based on a fallacy. For example, a 1986 comparative study on US drivers[^drivers] concluded that 80% of people considered themselves as "above average drivers". This means that saying that 80% of US drivers considered themselves better than 50% of the population. Does that sound right to you?  
 
-****I'm an indispensable employee!****  
-Another study[^developers] founded that 42% of employees in a software engineering company assessed their own performance as the top 5%. These employees overestimate their own abilities and may end up looking down on others either intentionally or unintentionally. This can rob team members of valuable opportunities to learn, grow, and develop as IT professionals.
+****I'm an Indispensable Employee!****  
+Another study[^developers] founded that 42% of employees in a software engineering company assessed their own performance as the top 5%. These employees overestimate their own abilities and may end up looking down on others. This can rob team members of valuable opportunities to learn, grow, and develop as IT professionals.
 
 ### Conclusion
-The Dunning Kruger Effect is a cause-and-effect outcome based on a person's use of misinformation. This misinformation allows for a catch-22 scenario because it can happen without awareness or knowledge. It is important for IT professionals to understand that it is expected for them to make the erroneous decision from time-to-time. And it is expected for IT professionals to sometimes over/underestimate by a lot. The goal is to never let Dunning-Kruger Effect influence your perception of yourself or others!
+The Dunning Kruger Effect is a cause-and-effect outcome based on a person's misunderstanding. These misgivings can happen without awareness or knowledge. It is important for IT professionals to understand that it is expected for them to make the erroneous decision from time to time. And it is expected for IT professionals to sometimes over-or underestimate by a lot. The goal is to never let the Dunning-Kruger Effect influence your perception of yourself or others!
 
 
 ### Citations
