@@ -6,7 +6,7 @@
 July 7, 2023
 
 ### Introduction 
-The Dunning-Kruger effect occurs when a person overestimates their abilities in a certain area because of a lack of knowledge or skill. However, this effect can also make those who are very skilled in a certain area to assume that everyone must also be as skilled, causing them to underestimate their ability. And this effect can influence an IT professional in many ways.
+The Dunning-Kruger effect is when a person overestimates their abilities in a certain area, despite a lack of knowledge or skill. However, this can also make those who are very skilled in a certain area to assume that everyone must also be as skilled, causing them to underestimate their ability. And this effect can influence an IT professional in many ways.
 
 ### The Cause
 The Dunning-Kruger Effect can be difficult to recognize, especially while it is occurring. For example, it can be difficult for a freshman in college, a junior developer, or a new hire to be consciously aware of mistakes or shortcomings while performing an activity. This observation can be directly related to a lack of experience, skill, or training and is not at all related to capability or willingness to learn. 
