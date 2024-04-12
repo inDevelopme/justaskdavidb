@@ -1,2 +1,1 @@
-This is a test document.
-Jasmine was here.
+This is a test document. Jasmine was here.
