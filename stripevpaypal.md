@@ -6,7 +6,8 @@
 
 ## Overview
 
-Stripe and PayPal are two payment types on Squarespace, each with their own pros and cons. However, both can be used simultaneously on your website. This guide will explain how to set up and use both payment processors, along with a comparison between them.
+Stripe and PayPal are two payment services available on Squarespace, each with their own pros and cons. 
+However, both can be used simultaneously. This guide will explain how to set up and use both payment processors, along with a comparison between them.
 
 ## How to Set Up
 
