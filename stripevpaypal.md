@@ -12,11 +12,11 @@ However, both can be used simultaneously. This guide will explain how to set up 
 ## How to Set Up
 
 1. On Squarespace, navigate to *Commerce -> Payments*.
-2. Once there, PayPal and Stripe will show up as payment methods.
-3. For both, an account must be linked to use.
-4. To create an account for Stripe, navigate to [Stripe Registration](https://dashboard.stripe.com/register).
-5. To create an account for PayPal, navigate to [PayPal Business Signup](https://www.paypal.com/bizsignup).
-6. Once an account is created, link the account on Squarespace and it will be ready for use.
+Once there, PayPal and Stripe will show up as payment methods.
+For both, an account must be linked to use.
+2. To create an account for Stripe, navigate to [Stripe Registration](https://dashboard.stripe.com/register).
+3. To create an account for PayPal, navigate to [PayPal Business Signup](https://www.paypal.com/bizsignup).
+4. Once an account is created, link the account on Squarespace and it will be ready for use.
 
 ## Stripe and PayPal Payment Comparison on Squarespace
 
