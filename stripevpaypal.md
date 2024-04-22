@@ -11,7 +11,7 @@ However, both can be used simultaneously. This guide will explain how to set up 
 
 ## How to Set Up
 
-1. On Squarespace, navigate to *Commerce -> Payments*.
+1. Navigate to *Commerce -> Payments*.
 Once there, PayPal and Stripe will show up as payment methods.
 For both, an account must be linked to use.
 2. To create an account for Stripe, navigate to [Stripe Registration](https://dashboard.stripe.com/register).
@@ -37,7 +37,7 @@ PayPal is one of the most recognized online payment systems. Customers often tru
 *Source:* [PayPal's About Us page](https://www.paypal.com/us/webapps/mpp/about)  
 
 **Buyer Protection**  
-PayPal offers buyer protection which can make potential customers feel more secure about making purchases.  
+PayPal offers buyer protection, which can make potential customers feel more secure about making purchases.  
 *Source:* [PayPal's Purchase Protection for Buyers](https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security)
 
 **International Payments**  
@@ -81,7 +81,7 @@ Although PayPal offers seller protection, merchants can still face challenges wi
 Both Squarespace and Stripe are designed for users who might not be technically savvy. They have made it simple to integrate Stripe as a payment method on a Squarespace website. [Squarespace Help](https://support.squarespace.com/hc/en-us/articles/206540797-Stripe)
 
 **Security**: 
-Stripe is PCI compliant, which means that it adheres to high security standards. When integrated with Squarespace, you can reassure your customers that their payment details are safe. [Stripe's Security](https://stripe.com/docs/security/stripe)
+Stripe is Payment Card Industry (PCI) compliant, which means that it adheres to high security standards. When integrated with Squarespace, you can reassure your customers that their payment details are safe. [Stripe's Security](https://stripe.com/docs/security/stripe)
 
 **Real-time Payment Processing**: 
 Transactions happen in real-time, allowing businesses to quickly receive confirmations and proceed with order fulfillment. [Squarespace Help](https://support.squarespace.com/hc/en-us/articles/206540797-Stripe)
@@ -106,7 +106,7 @@ Although Stripe supports a wide range of payment methods, there might be some re
 Like with many other payment processors, Stripe merchants can face chargebacks. If a customer disputes a transaction, there is a possibility that the funds will be reversed, and the merchant might also incur a chargeback fee. [Stripe Documentation on Disputes](https://stripe.com/docs/disputes)
 
 **Dependency on Third-party Platforms**: 
-If either Squarespace or Stripe faces an outage or technical issue, it could it could prevent the busines from processing transactions. This creates a dependency on both platforms' reliability. 
+If either Squarespace or Stripe faces an outage or technical issue, it could prevent the business from processing transactions. This creates a dependency on both platforms' reliability. 
 
 **Limited Customization**: 
 While integrating Stripe with Squarespace is user-friendly, there might be limited customization options compared to integrating Stripe on a custom-built site or other platforms. 
