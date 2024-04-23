@@ -34,7 +34,6 @@ For both, an account must be linked to use.
 ### Pros:  
 **Trust and Recognition**  
 PayPal is one of the most recognized online payment systems. Customers often trust PayPal and are familiar with its payment process.
-*Source:* [PayPal's About Us page](https://www.paypal.com/us/webapps/mpp/about)  
 
 **Buyer Protection**  
 PayPal offers buyer protection, which can make potential customers feel more secure about making purchases.  
