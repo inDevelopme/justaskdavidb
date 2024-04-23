@@ -45,7 +45,7 @@ PayPal facilitates international transactions, making it easier for merchants to
 *Source:* [PayPal's Cross-border Commerce](https://www.paypal.com/us/brc/article/cross-border-commerce)
 
 **Easy Integration**  
-Squarespace offers seamless integration with PayPal. Even users without technical know-how can easily add PayPal as a payment method.  
+Squarespace offers seamless integration with PayPal. Even users without technical experience can easily add PayPal as a payment method.  
 *Source:* [Squarespace Help – Accepting PayPal](https://support.squarespace.com/hc/en-us/articles/206540797-Accepting-PayPal)
 
 **Mobile Friendly**  
@@ -67,7 +67,7 @@ There have been instances where PayPal freezes accounts due to suspicious activi
 While integrating PayPal with Squarespace is easy, customization options for the checkout experience might be limited compared to other payment processors.
 
 **Potential Redirects**  
-Depending on the setup, customers might be redirected to PayPal's website to complete the purchase, which can sometimes result in a disjointed user experience.
+Depending on the setup, customers might be redirected to PayPal's website to complete the purchase. This can sometimes result in a disjointed user experience.
 
 **Disputes and Chargebacks**  
 Although PayPal offers seller protection, merchants can still face challenges with disputes and chargebacks, which can be time-consuming to resolve.  
@@ -105,8 +105,7 @@ Although Stripe supports a wide range of payment methods, there might be some re
 **Potential for Chargebacks**: 
 Like with many other payment processors, Stripe merchants can face chargebacks. If a customer disputes a transaction, there is a possibility that the funds will be reversed, and the merchant might also incur a chargeback fee. [Stripe Documentation on Disputes](https://stripe.com/docs/disputes)
 
-**Dependency on Third-party Platforms**: 
-If either Squarespace or Stripe faces an outage or technical issue, it could prevent the business from processing transactions. This creates a dependency on both platforms' reliability. 
+**Dependency on Third-party Platforms**: If either Squarespace or Stripe faces an outage or technical issue, it could prevent the business from processing transactions. This creates a dependency on both platforms' reliability. 
 
 **Limited Customization**: 
 While integrating Stripe with Squarespace is user-friendly, there might be limited customization options compared to integrating Stripe on a custom-built site or other platforms. 
