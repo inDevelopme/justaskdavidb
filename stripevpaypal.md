@@ -16,18 +16,23 @@ Once there, PayPal and Stripe will show up as payment methods.
 For both, an account must be linked to use.
 2. To create an account for Stripe, navigate to [Stripe Registration](https://dashboard.stripe.com/register).
 3. To create an account for PayPal, navigate to [PayPal Business Signup](https://www.paypal.com/bizsignup).
-4. Once an account is created, link the account on Squarespace and it will be ready for use.
+4. Once an account is created, link the account on Squarespace then it will be ready for use.
 
 ## Stripe and PayPal Payment Comparison on Squarespace
 
-| Aspect                       | PayPal                                                                                                    | Stripe                                                                                     |
-|------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| **Ease of Use**              | Squarespace makes integration simple. Users can use existing or set up a new account through Squarespace. | Seamless integration with just a Stripe account.                                           |
-| **Transaction Fees**         | Varies by user's location.                                                                                | Varies by country.                                                                         |
-| **Processing**               | Allows checkout without sharing financial info on the merchant site. Payment occurs on PayPal’s website.  | Payments take place on the merchant site with Stripe, providing a simpler user experience. |
-| **Accepted Payment Methods** | PayPal Balance, Visa, Mastercard, American Express, Discover, PayPal Credit.                              | Major credit and debit cards, Apple Pay, Google Pay.                                       |
-| **Security**                 | Secure transactions processed off the merchant site with strong buyer protection policies.                | Strong emphasis on security, using encryption to secure transactions and user data.        |
-| **Support**                  | Phone, email, help center for support.                                                                    | Email support, live support for high-tier plans.                                           |
+| Aspect                       |  PayPal                                                                                                                                                                                  | Stripe                                                                                                                                                               |
+|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Ease of Use**              | Squarespace integrates seamlessly with PayPal, but the setup process might require creating a PayPal business account. Users can use an existing PayPal account or set up a new account. | Squarespace offers native integration with Stripe, making it relatively straightforward to set up. Users can use an existing Stripe account or set up a new account. |
+| **Transaction Fees**         | PayPal's fees may vary depending on factors such as transaction volume, currency conversion, and whether the payment is funded by a PayPal balance, bank account, or credit card.        | Stripe's fees are competitive, with transparent pricing based on transaction volume and other factors.Stripe’s processing fees vary by country.                      |
+|
+| **Processing**               | Allows checkout without sharing financial info on the merchant site. Payment occurs on PayPal’s website.                                                                                 | Payments take place on the merchant site with Stripe, providing a simpler user experience.                                                                           |
+| **Accepted Payment Methods** | PayPal Balance, Bank Account, Credit Cards, and Debit Cards.                                                                                                                             | Credit Cards, Debit Cards, Apple Pay, Google Pay, Stripe subscriptions, and Custom Payment Forms (donations, event registrations, and booking fees.)                 |
+| **Security**                 | Secure transactions processed off the merchant site with strong buyer protection policies.                                                                                               | Strong emphasis on security, using encryption to secure transactions and user data.                                                                                  |
+| **Support**                  | Phone, email, help center for support.                                                                                                                                                   | Email support, live support for high-tier plans.                                                                                                                     |
+
+*Source:* [ChatGPT](https://chat.openai.com/c/69d01e56-1bff-448c-a134-f51ecc4e8d89)
+
+*Source:* [Payment Methods](https://support.squarespace.com/hc/en-us/articles/206541017-What-payment-methods-can-I-accept-with-Squarespace-Commerce)
 
 ## Pros and Cons of Integrating PayPal on Squarespace
 
