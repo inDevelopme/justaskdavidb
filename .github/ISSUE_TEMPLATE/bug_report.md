@@ -1,3 +1,12 @@
+---
+name: Bug Report
+about: Create an issue that currently exist with JustAskDavidB
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Issue Name
 
 ### Instructions for Template Use:
