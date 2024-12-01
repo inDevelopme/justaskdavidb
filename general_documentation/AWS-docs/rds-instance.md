@@ -45,4 +45,4 @@
 
 ---
 
-That's it! You've successfully created an RDS instance using Easy Create. You can now connect to your database using a client of your choice, such as MySQL Workbench, or explore AWS's built-in management tools.
+That's it! You've successfully created an RDS instance. You can now connect to your database using a client of your choice, such as MySQL Workbench, or use AWS's built-in management tools.
