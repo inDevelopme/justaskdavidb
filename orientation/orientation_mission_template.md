@@ -1,3 +1,5 @@
+ver. 20250609
+
 # Orientation
 We feel that professional development is like starting a journey into fitness or building your first player profile in NBA 2K. That is why JustAskDavidB focuses on setting up a solid foundation for all its players. 
 
