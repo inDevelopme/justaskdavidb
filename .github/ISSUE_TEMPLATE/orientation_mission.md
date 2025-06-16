@@ -24,11 +24,15 @@ Use this ticket to track **and prove** completion of each orientation task.
 
 ---
 
-## Podcast (first 18 episodes)
-- [ ] Listen • add **✅** once complete  
-- [ ] Post 5 episode comments in this issue  
-- [ ] Leave a public review on your chosen platform  
+### ***Platform Used for Podcast***
+Check off the platform you used to listen to the podcast:
+- [ ] [Spotify](https://open.spotify.com/show/7altHV6BJYSMS4TlbsbdZy?si=3c24a79eb22540c1)
+- [ ] [Apple Podcast](https://podcasts.apple.com/us/podcast/justaskdavidb/id1681610153)
+- [ ] [ListenNotes](https://www.listennotes.com/podcasts/justaskdavidb-developme10x-8G4BIveuw7R/)
 
+### ***Feedback About Podcast Episodes***
+- [ ] Provided a comment in this issue ticket about the five (5) of the most relevant episodes
+- [ ] Provided a review on the podcast platform to help others
 ---
 
 ## Tools to Install
@@ -75,25 +79,23 @@ _Check off a row once you’ve installed on **either** platform._
 
 ---
 
-## Git/GitHub Quest
-- [ ] Review Issue #72 • PR #74 • PR #79  
+### ***Issue Template Quest***
+- [ ] [Reviewed Issue Ticket](https://github.com/inDevelopme/justaskdavidb/issues/72)
+- [ ] [Reviewed Pull Request-1](https://github.com/inDevelopme/justaskdavidb/pull/74)
+- [ ] [Reviewed Pull Request-2](https://github.com/inDevelopme/justaskdavidb/pull/79)
 
----
+### ***Markdown Documentation Quest***
+- [ ] [Reviewed Issue Ticket](https://github.com/inDevelopme/justaskdavidb/issues/70)
 
-## Markdown Quest
-- [ ] Review Issue #70  
+### ***What is an IDE***
+- [ ] [Review Issue Ticket](https://github.com/inDevelopme/justaskdavidb/issues/69)
+- [ ] [Review PowerPoint Presentation](https://www.linkedin.com/posts/developme10x_what-is-an-ide-activity-7186725214083248128-RFvW)
 
----
+### ***Linux Command Quest***
+- [ ] [Reviewed Issue Ticket](https://github.com/inDevelopme/justaskdavidb/issues/65)
+- [ ] [Watched LinkedIn Video](https://www.linkedin.com/posts/indevelopme_indevelopme-justaskdavidb-developme10x-activity-7232098696102862849-Q3V3)
 
-## IDE Quest
-- [ ] Review Issue #69 • LinkedIn slide-deck  
+### ***Git Quest***
+- [ ] [Review: Mac Users need to know how to install git](https://github.com/inDevelopme/justaskdavidb/issues/68)
 
----
-
-## Linux Commands Quest
-- [ ] Issue #65 + LinkedIn video  
-
----
-
-### Completion
-Paste the final checklist with **✅** for every box, then **@-mention your mentor**.
+Estimated Time: 13 - 21 hours
