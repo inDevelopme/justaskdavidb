@@ -45,7 +45,7 @@ Check off the platform you used to listen to the podcast:
 ---
 
 ## Accounts to Create
-- [ ] **GitHub** — create at [github.com](https://github.com) ▪ username:  
+- [ ] **GitHub** — create at [github.com](https://github.com) ▪ username:[.            ]  
 - [ ] **LinkedIn** — create at [linkedin.com](https://www.linkedin.com) ▪ profile URL:  
 - [ ] **Slack** — create at [slack.com](https://slack.com) ▪ workspace e-mail:  
 - [ ] **Medium** — create at [medium.com](https://medium.com) ▪ handle:  
