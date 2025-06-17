@@ -1,7 +1,7 @@
 ---
 name: "🧭 Orientation Mission"
 about: Kick-off check-list for new JustAskDavidB participants
-title: "[Orientation]: <your-name-here>"
+title: "[Orientation]: {Your FirstName First Letter of LastName} (ie: David B.)"
 labels: ["orientation", "good first issue"]
 assignees: ""
 ---
@@ -54,7 +54,8 @@ Check off the platform you used to listen to the podcast:
 
 ## LMS Subscription  *(pick one)*
 - [ ] **Pluralsight** — [pluralsight.com](https://www.pluralsight.com)  
-- [ ] **ACloudGuru** — [acloudguru.com](https://www.acloudguru.com)  
+- [ ] **ACloudGuru** — [acloudguru.com](https://www.acloudguru.com) 
+- [ ] **AWS Skillbuilder** - [skillbuilder.aws.com](https://explore.skillbuilder.aws/learn) 
 
 ---
 
