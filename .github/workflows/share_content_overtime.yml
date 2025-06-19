@@ -1,0 +1,17 @@
+name: Share Content Overtime
+
+on:
+  schedule:
+    # every Monday at 15:00 UTC (10 am CDT)
+    - cron:  '0 15 * * 1'
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create reminder issue
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Weekly content drop – $(date '+%Y-m-d')"
+          content-filepath: .github/content-reminder.md
+          labels: share-content
