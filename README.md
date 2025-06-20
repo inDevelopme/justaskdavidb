@@ -56,3 +56,11 @@ Participants on the Content Strategy track will complete tasks related to the co
 ***Content Strategy: Benefit to Participant***  
 
 Consistent engagement in this track will establish a solid foundation in the content developemnt life cycle and general IT concepts such development environments and User Acceptance Testing (UAT). Participants will occassional have working sessions with content strategists that have 15+ years of experience in the field. These opportunities will help participants become proficient at making strategic decisions backed by research and data for the purpose of increasing content engagement.  
+
+## Contributing
+
+### Issue Templates
+- **🧭 Orientation Mission** — use this template to onboard yourself before submitting code
+- 🐞 **Bug Report** — report problems in the curriculum or scripts
+- ✨ **Enhancement / Feature Request** — propose improvements to code, boot-camp materials, or tooling
+MD
